@@ -1,11 +1,9 @@
 ---
-title: "Anchors & Shackles (Ark)"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+title: Anchors & Shackles (Ark)
+transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=OBt1nS14Ac4
-tags: []
-speakers: []
-categories: ['conference']
-date: 2023-06-24
+categories: ["conference"]
+date: 2023-05-30
 ---
 So hey guys, my name is Borat.
 Today I'll be talking about something that I've been working on for the past, let's say, six months or so.
