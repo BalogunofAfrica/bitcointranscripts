@@ -2,6 +2,7 @@
 title: Anchors & Shackles (Ark)
 transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=OBt1nS14Ac4
+speakers: ["Adam Back"]
 categories: ["conference"]
 date: 2023-05-30
 ---
