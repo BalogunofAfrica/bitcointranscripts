@@ -1,5 +1,5 @@
 ---
-title: Anchors & Shackles (Ark)
+title: "Anchors & Shackles (Ark)"
 transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=OBt1nS14Ac4
 tags: ["accumulators"]
@@ -16,3 +16,5 @@ I've had severe objections.
 A few months ago, I tried to sort of working on a new light and more to address these problems.
 And I've come to realization that these objections, the objections that I had in the past, they're all addressable in the long run.
 I, you know, page DLCs can sold in, same receiving initiative plus proof of payment, but there is still one big problem, the inboxing...
+
+No Cap
