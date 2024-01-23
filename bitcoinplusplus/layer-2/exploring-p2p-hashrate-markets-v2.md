@@ -1,10 +1,10 @@
 ---
 title: "Exploring P2P Hashrate Markets V2"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=IvfmfcAX9wU
-tags: ['mining']
-speakers: ['Nico Preti']
-categories: ['conference']
+tags: ["mining"]
+speakers: ["Nico Preti"]
+categories: ["Video (3)"]
 date: 2023-07-25
 ---
 Hi everybody, I'm Nico.
