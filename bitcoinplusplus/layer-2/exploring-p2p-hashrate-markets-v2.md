@@ -195,11 +195,4 @@ That doesn't really exist for every other major commodity in the world that exis
 So we can't do that with Bitcoin, right?
 And as a miner, it's, especially when we're dealing with this kind of capital structure, it's very heavy capital structure we have to manage, it's really debilitating, and it makes it a very difficult business to actually be successful.
 So, part of the way we've been thinking about this is, well, I think we're actually just looking for liquidity in the wrong place, but we're looking for to diversify that risk in the wrong place.
-Why are we going to all these traditional financial institutions that are really just trying to get as much as they can to get these loans, and why don't we just actually go to the people that have capital sitting around, by capital I mean Bitcoin, that sits there, and they're very interested in obviously the security of the network, and they're interested in distribution of that security of the network.
-So why don't we leverage all that latent capital for distributing this kind of security risk, right, or the security of the structure.
-So you can kind of think of hosting and cloud mining as maybe an attempt at doing that, not really, but we can like try and say that that was maybe, you know, in the most charitable sense what they're doing.
-For those that don't know, hosting is when you buy a rig and somebody basically has it at their facility for you and they run it, they give you the payouts for it or they point that hash rate to your mining pool.
-Cloud mining is basically where you can buy a hash rate contract for a given amount of time.
-Usually it's not with actual delivery of the hash rate as far as I know.
-I have heard that there are some instances where that happens.
-But basically the d
+Why are we going to all these traditional financial institutions that are really just trying to get as much as they can to get these loans, and why don't we just actually go t
