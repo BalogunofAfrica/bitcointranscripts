@@ -17,4 +17,4 @@ A few months ago, I tried to sort of working on a new light and more to address 
 And I've come to realization that these objections, the objections that I had in the past, they're all addressable in the long run.
 I, you know, page DLCs can sold in, same receiving initiative plus proof of payment, but there is still one big problem, the inboxing...
 
-No Cap
+New nEW NEW
