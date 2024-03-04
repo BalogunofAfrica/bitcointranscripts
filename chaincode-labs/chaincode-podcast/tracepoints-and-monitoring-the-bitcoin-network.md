@@ -2,6 +2,7 @@
 title: "James Chiang, Schnorr and Taproot - Chaincode  Demo Day"
 transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=VAJT8TPfpcs
+date: 2024-03-02
 tags: ["ark","anonymity-networks","bech32"]
 categories: ["conference"]
 ---
