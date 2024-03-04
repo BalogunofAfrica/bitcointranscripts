@@ -5,7 +5,7 @@ media: https://www.youtube.com/watch?v=e6voIwB-An4
 tags: ["cryptography"]
 speakers: ["Jimmy Song","Adam Ficsor"]
 categories: ["core-dev-tech"]
-date: 2017-11-18
+date: 2018-01-26
 ---
 All right, so I was sitting there and looking at my own slide and I realized that there was a couple of very embarrassing mistakes.
 First, the repo that you're supposed to clone is actually Bitcoin Edge Dev++, not Jimmy Song Dev++, so I apologize about that.
