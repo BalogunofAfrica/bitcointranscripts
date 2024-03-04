@@ -1,9 +1,9 @@
 ---
 title: "Foundational Math, ECDSA and Transactions"
-transcript_by: kouloumos via review.btctranscripts.com
+transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=e6voIwB-An4
 tags: ["cryptography"]
-speakers: ["Jimmy Song"]
+speakers: ["Jimmy Song","Adam Ficsor"]
 date: 2017-11-02
 ---
 All right, so I was sitting there and looking at my own slide and I realized that there was a couple of very embarrassing mistakes.
