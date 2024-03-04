@@ -4,6 +4,7 @@ transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=e6voIwB-An4
 tags: ["cryptography"]
 speakers: ["Jimmy Song","Adam Ficsor"]
+categories: ["core-dev-tech"]
 date: 2017-11-02
 ---
 All right, so I was sitting there and looking at my own slide and I realized that there was a couple of very embarrassing mistakes.
