@@ -2,7 +2,7 @@
 title: "Foundational Math, ECDSA and Transactions"
 transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://www.youtube.com/watch?v=e6voIwB-An4
-tags: ["cryptography"]
+tags: ["cryptography","anonymity-networks"]
 speakers: ["Jimmy Song","Adam Ficsor"]
 categories: ["core-dev-tech"]
 date: 2018-01-26
