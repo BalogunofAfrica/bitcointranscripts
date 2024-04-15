@@ -8,7 +8,7 @@ categories: ["podcast"]
 date: 2022-05-13
 ---
 Speaker 0: 00:00:00
-Test
+
 
 In Adromain you also have this distinction between the new and the tried tables.
 So the new tables are for unverified addresses that someone just sent you and you don't know whether they are good, whether there's really a Bitcoin node behind them.
