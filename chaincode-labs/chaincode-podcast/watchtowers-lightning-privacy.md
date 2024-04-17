@@ -1,14 +1,14 @@
 ---
 title: "Watchtowers, Lightning Privacy"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Sergi-Delgado-and-Watchtowers--Lightning-Privacy---Episode-28-e1uce42
-tags: ['lightning', 'privacy']
-speakers: ['Sergi Delgado']
-categories: ['podcast']
 date: 2023-02-02
+tags: ["lightning","privacy","altcoins"]
+speakers: ["Sergi Delgado"]
+categories: ["podcast"]
 ---
 Speaker 0: 00:00:00
-
+Test
 I came into Bitcoin because I like peer-to-peer.
 I discover more things that I love by doing so.
 And again, these are not feelings, but they are feelings related to research.
