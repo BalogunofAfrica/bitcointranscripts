@@ -3,7 +3,7 @@ title: "Watchtowers, Lightning Privacy"
 transcript_by: BalogunofAfrica via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Sergi-Delgado-and-Watchtowers--Lightning-Privacy---Episode-28-e1uce42
 date: 2023-02-02
-tags: ["lightning","privacy","altcoins"]
+tags: ["lightning","privacy","altcoins","addr-v2"]
 speakers: ["Sergi Delgado"]
 categories: ["podcast"]
 ---
