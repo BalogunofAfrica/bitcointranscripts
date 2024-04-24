@@ -7,6 +7,7 @@ tags:
   - privacy
   - altcoins
   - amp
+  - accidental-confiscation
 speakers:
   - Sergi Delgado
 categories:
