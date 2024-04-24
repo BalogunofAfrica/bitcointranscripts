@@ -5,6 +5,7 @@ date: '2023-02-02'
 tags:
   - lightning
   - privacy
+  - altcoins
 speakers:
   - Sergi Delgado
 categories:
