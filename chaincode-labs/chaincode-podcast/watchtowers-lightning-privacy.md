@@ -14,7 +14,7 @@ categories:
   - podcast
 ---
 Speaker 0: 00:00:00
-Test
+Testa
 I came into Bitcoin because I like peer-to-peer.
 I discover more things that I love by doing so.
 And again, these are not feelings, but they are feelings related to research.
