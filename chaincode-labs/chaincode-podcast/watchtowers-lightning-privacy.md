@@ -6,6 +6,7 @@ tags:
   - lightning
   - privacy
   - altcoins
+  - amp
 speakers:
   - Sergi Delgado
 categories:
