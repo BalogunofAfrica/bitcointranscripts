@@ -28,7 +28,7 @@ additional_resources:
     url: 'https://medium.com/@MeshCollider/some-of-the-math-behind-bech32-addresses-cf03c7496285'
 ---
 Speaker 0: 00:00:00
-
+Test2
 Chaincode podcast is back.
 Welcome back to the Chaincode podcast.
 I am here with Merch.
