@@ -14,7 +14,7 @@ categories:
 summary: 'This revisits a segment we call Chaincode Decoded. In this episode, we''ll learn how to say Bech32 and also what it and Bech32m are. Enjoy!'
 ---
 Speaker 0: 00:00:00
-
+TTT
 Chaincode podcast is back.
 Welcome back to the Chaincode podcast.
 I am here with Merch.
