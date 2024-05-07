@@ -24,7 +24,7 @@ And we are back.
 It's been quite a layoff, but we're back in the studio and happy to be here.
 jsjsj
 Speaker 1: 00:00:16
-
+aaaa
 Very happy.
 
 Speaker 0: 00:00:17
