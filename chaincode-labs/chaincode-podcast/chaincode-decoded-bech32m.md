@@ -22,7 +22,7 @@ I am here with Merch.
 Hey there.
 And we are back.
 It's been quite a layoff, but we're back in the studio and happy to be here.
-
+jsjsj
 Speaker 1: 00:00:16
 
 Very happy.
