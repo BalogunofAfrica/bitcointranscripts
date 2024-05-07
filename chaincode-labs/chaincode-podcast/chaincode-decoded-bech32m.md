@@ -11,6 +11,7 @@ speakers:
   - 'Mark Erhardt'
   - 'balogun'
   - 'Aaron van Wirdum'
+  - 'Adam Fiscor'
 categories:
   - 'podcast'
 summary: 'This revisits a segment we call Chaincode Decoded. In this episode, we''ll learn how to say Bech32 and also what it and Bech32m are. Enjoy!'
