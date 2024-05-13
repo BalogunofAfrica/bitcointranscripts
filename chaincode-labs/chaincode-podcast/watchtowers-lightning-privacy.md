@@ -1,17 +1,17 @@
 ---
-title: Watchtowers, Lightning Privacy
-transcript_by: BalogunofAfrica via review.btctranscripts.com
+title: 'Watchtowers, Lightning Privacy'
+transcript_by: 'BalogunofAfrica via review.btctranscripts.com'
 date: '2023-02-02'
 tags:
-  - lightning
-  - privacy
-  - altcoins
-  - amp
-  - accidental-confiscation
+  - 'lightning'
+  - 'privacy'
+  - 'altcoins'
+  - 'amp'
+  - 'accidental-confiscation'
 speakers:
-  - Sergi Delgado
+  - 'Sergi Delgado'
 categories:
-  - podcast
+  - 'podcast'
 ---
 Speaker 0: 00:00:00
 Test
